@@ -28,7 +28,7 @@
    branch. 
 4. Do not forget to provide the access to your repository for:
     - [peterdrobec](https://github.com/peterdrobec)
-    - [janokacer](https://github.com/janokacer)
+    - [martinorolin](https://github.com/orolinm12)
 
 <br />
 
